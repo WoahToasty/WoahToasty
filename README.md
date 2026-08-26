@@ -38,7 +38,13 @@ half the code I write is for future me, who somehow always ends up more annoyed 
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:8AADF4,100:1a1b26&height=3"/>
 
 </div>
 
@@ -83,7 +89,7 @@ half the code I write is for future me, who somehow always ends up more annoyed 
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:8AADF4,100:1a1b26&height=3"/>
 
 </div>
 
