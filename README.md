@@ -64,9 +64,9 @@ half the code I write is for future me, who somehow always ends up more annoyed 
 <a href="https://github.com/woahtoasty/ToastyLink/blob/main/LICENSE"><img src="https://img.shields.io/github/license/woahtoasty/ToastyLink?style=for-the-badge&color=8AADF4&labelColor=1a1b26" /></a>
 <img src="https://img.shields.io/badge/windows%20%7C%20linux%20%7C%20macos-1a1b26?style=for-the-badge&color=8AADF4&labelColor=1a1b26&label=runs%20on" />
 
-a from-scratch C++17 client for XBDM, the debug/control protocol Xbox 360 consoles expose when running a softmodded dashboard. no third-party SDK, just the wire protocol implemented directly: reading and writing console memory, listing modules and threads, AOB pattern scanning, and a mode to fire off any raw XBDM command and see the exact response.
+a from-scratch C++17 trainer & debug toolkit for XBDM, the debug/control protocol Xbox 360 consoles expose when running a softmodded dashboard. no third-party SDK, just the wire protocol implemented directly, plus a real trainer engine on top: typed endian-correct memory read/write, pointer chains that survive game restarts, Cheat Engine-style progressive value scanning, and a background freeze engine with shareable JSON cheat-table files.
 
-built it because most public tooling for this is old, closed-source, or buried inside a much bigger GUI app — this is just the protocol, small and readable.
+built it because most public tooling for this is old, closed-source, or buried inside a much bigger GUI app — this is just the protocol and the workflow on top of it, small and readable.
 
 </div>
 
