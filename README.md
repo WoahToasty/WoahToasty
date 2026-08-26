@@ -98,7 +98,7 @@ no game-specific offsets are baked in anywhere — offsets go stale the moment a
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=woahtoasty&hide_border=true&theme=tokyonight&ring=c6a0f6&fire=f5bde6&currStreakLabel=8aadf4&background=24273a" alt="streak" width="58%"/>
+<img src="https://streak-stats.demolab.com/?user=woahtoasty&hide_border=true&theme=tokyonight&ring=c6a0f6&fire=f5bde6&currStreakLabel=8aadf4&background=24273a" alt="streak" width="58%"/>
 
 <br><br>
 
