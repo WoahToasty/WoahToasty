@@ -11,9 +11,8 @@
 <br>
 
 <a href="#about"><img src="https://img.shields.io/badge/about-1a1b26?style=for-the-badge&logo=aboutdotme&logoColor=8AADF4&labelColor=1a1b26" /></a>
+<a href="#projects"><img src="https://img.shields.io/badge/projects-1a1b26?style=for-the-badge&logo=cplusplus&logoColor=8AADF4&labelColor=1a1b26" /></a>
 <a href="#stats"><img src="https://img.shields.io/badge/stats-1a1b26?style=for-the-badge&logo=googleanalytics&logoColor=8AADF4&labelColor=1a1b26" /></a>
-<a href="#activity"><img src="https://img.shields.io/badge/activity-1a1b26?style=for-the-badge&logo=githubactions&logoColor=8AADF4&labelColor=1a1b26" /></a>
-<a href="#trophies"><img src="https://img.shields.io/badge/trophies-1a1b26?style=for-the-badge&logo=awesomelists&logoColor=8AADF4&labelColor=1a1b26" /></a>
 
 </div>
 
@@ -48,22 +47,35 @@ half the code I write is for future me, who somehow always ends up more annoyed 
 
 </div>
 
+<h3 id="projects" align="center">🛠️ featured project</h3>
+
+<div align="center">
+
+### [ToastyLink](https://github.com/woahtoasty/ToastyLink)
+
+<a href="https://github.com/woahtoasty/ToastyLink/stargazers"><img src="https://img.shields.io/github/stars/woahtoasty/ToastyLink?style=for-the-badge&logo=github&color=8AADF4&labelColor=1a1b26&logoColor=8AADF4" /></a>
+<a href="https://github.com/woahtoasty/ToastyLink"><img src="https://img.shields.io/github/languages/top/woahtoasty/ToastyLink?style=for-the-badge&color=8AADF4&labelColor=1a1b26" /></a>
+<a href="https://github.com/woahtoasty/ToastyLink/blob/main/LICENSE"><img src="https://img.shields.io/github/license/woahtoasty/ToastyLink?style=for-the-badge&color=8AADF4&labelColor=1a1b26" /></a>
+
+a from-scratch C++17 client for XBDM, the debug/control protocol Xbox 360 consoles expose when running a softmodded dashboard. no third-party SDK, just the wire protocol implemented directly: reading and writing console memory, listing modules and threads, AOB pattern scanning, and a mode to fire off any raw XBDM command and see the exact response. built it because most public tooling for this is old, closed-source, or buried inside a much bigger GUI app — this is just the protocol, small and readable.
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,50:8AADF4,100:1a1b26&height=3"/>
+
+</div>
+
 <h3 id="stats" align="center">📊 stats</h3>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=woahtoasty&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&title_color=8AADF4&icon_color=8AADF4&text_color=c0caf5&bg_color=1a1b26" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=woahtoasty&hide_border=true&theme=tokyonight&ring=8AADF4&fire=8AADF4&currStreakLabel=8AADF4&background=1a1b26" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=woahtoasty&hide_border=true&theme=tokyonight&ring=8AADF4&fire=8AADF4&currStreakLabel=8AADF4&background=1a1b26" alt="GitHub Streak" width="60%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woahtoasty&layout=compact&hide_border=true&theme=tokyonight&title_color=8AADF4&text_color=c0caf5&bg_color=1a1b26&langs_count=8" alt="Top Languages" width="49%"/>
+<br>
 
-</div>
-
-<h3 id="activity" align="center">📈 activity</h3>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=woahtoasty&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=8AADF4&line=8AADF4&point=c0caf5&area=true&area_color=8AADF4" alt="activity graph" width="95%"/>
+<img src="https://img.shields.io/github/followers/woahtoasty?style=for-the-badge&logo=github&color=8AADF4&labelColor=1a1b26&logoColor=8AADF4&label=followers" />
 
 </div>
 
@@ -76,14 +88,6 @@ half the code I write is for future me, who somehow always ends up more annoyed 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/woahtoasty/woahtoasty/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/woahtoasty/woahtoasty/output/github-contribution-grid-snake.svg" width="95%"/>
 </picture>
-
-</div>
-
-<h3 id="trophies" align="center">🏆 trophy case</h3>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=woahtoasty&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies"/>
 
 </div>
 
