@@ -66,12 +66,17 @@ a from-scratch **C++17 trainer & debug toolkit** for XBDM — the protocol Xbox 
 | 🔗 | **pointer chains** — `base,off1,off2` resolves live, so an address survives game restarts instead of rotting on reboot |
 | 🔍 | **progressive value scanning** — narrow an unknown health/ammo address down by playing between scans, Cheat Engine style |
 | ❄️ | **a real freeze engine** — background thread, named entries, saved as small JSON cheat tables you can hand to someone else |
+| 🩹 | **revertible code patches + a tiny PPC assembler** — `nop`/`blr`/`b`/`bl`/`li` assembled in-tool, originals captured before writing so every patch reverts exactly |
+| 📡 | **LAN console discovery** — sweeps a subnet for anything answering on the XBDM port, so you never go hunting for the IP |
 | 🧩 | **AOB pattern scanning** with wildcards, over a range or every mapped region |
 | 📜 | **batch scripting + raw passthrough** — a whole trainer setup in one command, and correct framing for any XBDM command |
 
 </div>
 
 ```console
+toastylink> discover 192.168.1
+1 console(s) found:  192.168.1.50  (201- connected)
+
 toastylink> vscan new i32 0x82000000 0x200000 exact 100
 414 candidate(s). Play/change the value, then run 'vscan next ...'.
 
