@@ -21,18 +21,18 @@
 
 <h3 id="about" align="center">👋 about</h3>
 
-I like taking things apart to see how they actually work, then putting them back together a little better than I found them. Some days that means shipping something small and clean, other days it's three hours deep in a bug that turned out to be a typo. Both count.
+I like taking things apart to see how they actually work, then putting them back together a little better than I found them. some days that's shipping something small and clean. other days it's three hours deep in a bug that turns out to be one missing semicolon. both count, honestly.
 
-I care about writing code that's easy to come back to six months later, not just code that runs once and gets forgotten — future-me tends to thank present-me for that.
+half the code I write is for future me, who somehow always ends up more annoyed at past me than the other way around. so I try to leave things in a state I won't hate opening again later.
 
 <div align="center">
 
 |  |  |
 |---|---|
-| 🧠 | I'd rather understand *why* something works than copy-paste a fix |
-| 🚀 | Small, working, and shipped beats big, perfect, and unfinished |
-| 📖 | I read the docs before I ask — usually |
-| 🌱 | Still learning, and I don't mind saying so |
+| 🧠 | rather understand *why* something works than just copy-paste a fix |
+| 🚀 | small and shipped beats big and unfinished, every time |
+| 📖 | I do read the docs first. mostly. |
+| 🌱 | still learning plenty, not gonna pretend otherwise |
 
 </div>
 
@@ -89,7 +89,7 @@ I care about writing code that's easy to come back to six months later, not just
 
 <div align="center">
 
-if you're checking out my pinned repos, thanks for stopping by — feel free to poke around, star something, or open an issue if you spot a bug
+thanks for scrolling this far. poke around the repos, star something if you feel like it, or open an issue if you find something broken (you probably will, I move fast)
 
 <br><br>
 
